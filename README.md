@@ -1,16 +1,6 @@
 # catolica_plus_plus
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Após criado a conta e feito login
+Clicando no botão + você cadastra um certificado
+na tela certificados mostra todos os certificados
+na tela inicial mostra o total de horas completares feitas
